@@ -1,2 +1,2 @@
 # Hello-World
-Projeto desenvolvido para a aula de programção do terceiro ano do ensino médio.
+Projeto desenvolvido para o curso de programação para professores.
